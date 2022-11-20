@@ -4,7 +4,7 @@ Laporan Resmi Praktikum Jarkom Modul 4
 # Anggota Kelompok
 Anggota  | NRP
 ---------|-------
-Arvel Gavrilla Raissananda | 05111940000040
+Arvel Gavrilla Raissananda | 5025201148
 Johnivan Aldo Sudiono | 05111940000051
 Vincent Yonathan | 05111940000186
 
